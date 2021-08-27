@@ -1,0 +1,57 @@
+body{
+    background-image: url('image/bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-text{
+    
+    color: rgb(8, 1, 1);
+    font-weight: bold;
+    border: 3px solid #6d3636;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+.heading name h1{
+    text-align: center;
+    text-decoration:underline;
+    font-size: 49px;
+}
+.image Section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 33px;
+
+}
+.content {
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 22px;
+    font-style: oblique;
+}
+
+.earlylife h3{
+    text-decoration: underline;
+}
+.earlyLife{
+    /* text-align: center;  */
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 19px;
+    font-weight: 600;
+}
+.BankCase h4{
+    text-decoration: underline;
+
+}
+.bankCase{
+    /* text-align: center;  */
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 19px;
+    font-weight: 600;
+}
